@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7d8c652b-3604-4e1b-a877-b5e1612e8a39" name="vcapp" url="http://109.106.254.93">
+        <fileTransfer rootFolder="/domains/digitechproject.com/public_html/vcapp" host="109.106.254.93" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
